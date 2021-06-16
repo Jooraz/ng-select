@@ -44,7 +44,7 @@
     "@angular/platform-browser": "~12.0.0",
     "@angular/platform-browser-dynamic": "~12.0.0",
     "@angular/router": "~12.0.0",
-    "@ng-bootstrap/ng-bootstrap": "^9.0.2",
+    "@ng-bootstrap/ng-bootstrap": "https://github.com/internalsystemerror/ng-bootstrap.git",
     "bootstrap": "^4.5.0",
     "rxjs": "~6.5.5",
     "tslib": "^2.2.0",
